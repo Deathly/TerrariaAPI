@@ -1,0 +1,5 @@
+D:\Terraria\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Terraria\bin\Debug\Terraria.exe
+D:\Terraria\bin\Debug\Terraria.pdb
+D:\Terraria\obj\x86\Debug\Terraria.exe
+D:\Terraria\obj\x86\Debug\Terraria.pdb
